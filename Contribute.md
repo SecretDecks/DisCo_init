@@ -25,7 +25,7 @@ ideas, new content or proposals start off in Discord (as "Thread") or in Github 
   
 - activity in our GitHub repositories is tracked as well
 - SourceCred distributes the community currency <xxx>
-- All core members fill out a monthly contribution survey to document and peer validate their input
+- All core members fill out a monthly [contribution survey](https://github.com/SecretDecks/DisCo_init/issues/new?assignees=&labels=&template=contribution-survey.md&title=Contribution+Survey) to document and peer validate their input
 
 ## Team members
 
