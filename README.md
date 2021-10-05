@@ -1,20 +1,24 @@
-##### DisCo_init
-A vanilla repository for a basic DisCo (distributed cooperative) setup [this can be deleted after forking!]
-#
+```
+# DisCo_init
+A vanilla repository for a basic DisCo (distributed cooperative) setup 
+replace all < > with your coops content!
+[this text can be deleted after forking!]
+```
+
 ### WHAT 
-[describe Coop purpose]
+*describe the coop purpose*
 
 ### WHY
-[describe reason/rationale for purpose]
+*describe reason/rationale for purpose*
 
 ### HOW
-* How to contribute 
-* Code of Conduct
-* Coop charter / policy (agreed upon values)
+* <Coop charter / policy (agreed upon values)> 
+* [Code of Conduct](https://github.com/SecretDecks/DisCo_init/blob/main/Code-of.Conduct.md)
+* [How to contribute](https://github.com/SecretDecks/DisCo_init/blob/main/Contribute.md) 
 
 #
 
 ### IMPORTANT LINKS
-* external links
-* internal links (Discussion section, specific discussion or items?)
+* <external links>
+* <internal links (Discussion section, specific discussion or items?)>
 * ...
