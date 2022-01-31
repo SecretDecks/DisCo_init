@@ -1,6 +1,6 @@
 name: Contribution Survey v.01
-description: A survey to asses contribution by individuals to the SecretDecks DisCo
-title: "year(number)-month(number)-your-name-SecretDecks-ContributionSurvey"
+description: A survey to asses contribution by individuals to the DisCo
+title: "year(number)-month(number)-YourName-DisCoName-ContributionSurvey"
 labels: [Contribution Survey]
 body:
   - type: markdown
@@ -12,7 +12,7 @@ body:
   - type: input
     id: date-joined
     attributes:
-      label: Date Joined SecretDecks
+      label: Date Joined DisCo
       description: (Month/Day/Year)
       placeholder: Ex. 08/21/2020
     validations:
@@ -29,10 +29,9 @@ body:
       label: Contribution Peer Review
       description: Select team member to review your constributions
       options:
-        - Dan
-        - Tyler
-        - Heather
-        - Stephen
+        - member a
+        - member b
+        - member c
     validations:
       required: true
 
@@ -49,6 +48,7 @@ body:
         - label: Website
         - label: Governance
         - label: Content & Metaverse
+        - labek: Development
   - type: input
     id: output
     attributes:
@@ -90,7 +90,7 @@ body:
     id: external-work
     attributes:
       label: Team External Work
-      description: All items that are not Website, Governance, or Content & Metaverse
+      description: All items that are not within Teamspaces
     validations:
       required: false
 
