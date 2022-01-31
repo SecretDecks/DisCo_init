@@ -48,7 +48,7 @@ body:
         - label: Website
         - label: Governance
         - label: Content & Metaverse
-        - labek: Development
+        - label: Development
   - type: input
     id: output
     attributes:
